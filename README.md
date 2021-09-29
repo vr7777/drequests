@@ -8,8 +8,12 @@ DM vr#7777 on Discord if you have any inquires/suggestions.
 
 # Example
 ```python
-  from d_requests import drequests, Endpoints as e
-
+ from drequests import d_requests
+  
+  drequests = d_requests.drequests
+  e = d_requests.Endpoints
+  
+  
   auth = "DISCORD_TOKEN"
   
   username = drequests.get(e.username, auth)

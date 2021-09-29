@@ -24,3 +24,8 @@ DM vr#7777 on Discord if you have any inquires/suggestions.
   newbio = drequests.get(e.bio, auth) # Print out the new about me
   print(newbio)
 ```
+
+# Things to keep in mind #
+* Discord has a rate limit for changing about me's.
+* If you change an accounts about me with drequests, make sure to have a verified phone number attached. It **WILL** phone lock your account.
+* Anything you do with this wrapper is completely on you, I take no responsibility for any mishaps that may happen.

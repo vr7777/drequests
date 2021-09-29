@@ -20,7 +20,7 @@ def get(endpnt, auth):
         except:
             print("Internal Error Occured: ", sys.exc_info()[0])
             
- def patch(endpnt, arg1, auth):
+def patch(endpnt, arg1, auth):
         try:
             if endpnt in endpntlist:
                 content = {

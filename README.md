@@ -8,7 +8,7 @@ DM vr#7777 on Discord if you have any inquires/suggestions.
 
 # Example
 ```python
-  from API import drequests, Endpoints as e
+  from d_requests import drequests, Endpoints as e
 
   auth = "DISCORD_TOKEN"
   

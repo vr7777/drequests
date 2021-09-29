@@ -8,7 +8,7 @@ DM vr#7777 on Discord if you have any inquires/suggestions.
 
 # Example
 ```python
- from drequests import d_requests
+  from drequests import d_requests
   
   drequests = d_requests.drequests
   e = d_requests.Endpoints

@@ -14,6 +14,28 @@ endpntlist = ["accent_color", "avatar", "banner", "banner_color", "bio", "discri
               "locale", "mfa_enabled", "nsfw_allowed", "phone", "premium_type", "premium_usage_flag",
               "public_flags", "purchased_flags", "token", "username", "verified", None]
 
+class Endpoints(object):
+    accent_color = "accent_color"
+    avatar = "avatar"
+    banner = "banner"
+    banner_color = "banner_color"
+    bio = "bio"
+    discriminator = "discriminator"
+    email = "email"
+    flags = "flags"
+    id = "id"
+    locale = "locale"
+    mfa_enabled = "mfa_enabled"
+    nsfw_allowed = "nsfw_allowed"
+    phone = "phone"
+    premium_type = "premium_type"
+    premium_usage_flags = "premium_usage_flags"
+    public_flags = "public_flags"
+    purchased_flags = "purchased_flags"
+    tokenData = "token"
+    username = "username"
+    verified = "verified"
+    
 
 class drequests(object):
     """def __init__(self, endpnt, status, json):

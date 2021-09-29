@@ -1,5 +1,7 @@
 # drequests
-drequests is a work in progress api wrapper for Discord's /v9/users/@me endpoint. Planning on adding more endpoints in the future. For now, this project is very useful for automating about me's and more.
+drequests is a work in progress api wrapper for Discord's /v9/users/@me endpoint. Planning on adding more endpoints in the future. For now, this project is very useful for automating about me's and more. 
+
+DM vr#7777 on Discord if you have any inquires/suggestions.
 
 
 

@@ -1,5 +1,3 @@
-import json
-from typing import Optional
 import requests, sys
 
 class Endpoints(object):

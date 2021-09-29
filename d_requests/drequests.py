@@ -1,3 +1,7 @@
+import requests, sys
+
+
+
 endpntlist = ["accent_color", "avatar", "banner", "banner_color", "bio", "discriminator", "email", "flags", "id",
               "locale", "mfa_enabled", "nsfw_allowed", "phone", "premium_type", "premium_usage_flag",
               "public_flags", "purchased_flags", "token", "username", "verified", None]
